@@ -1,0 +1,13 @@
+{
+	"type": "Collection",
+	"properties": {
+		"coffeeorders": {
+			"name": "coffeeorders",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "coffeeorders",
+			"order": 0
+		}
+	}
+}
